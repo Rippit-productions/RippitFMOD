@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b17f1e87-b5c4-4286-aca9-dd46308f70ec}">
+		<property name="assetPath">
+			<value>Music/metaroom - My Escape.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>192.57469387755103</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ad9f25f2-2ccd-4e93-b110-49f582ed9608}</destination>
+		</relationship>
+	</object>
+</objects>
