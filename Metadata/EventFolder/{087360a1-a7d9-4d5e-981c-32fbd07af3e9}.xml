@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{087360a1-a7d9-4d5e-981c-32fbd07af3e9}">
 		<property name="name">
 			<value>SFX</value>

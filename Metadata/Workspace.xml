@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{2b26ee39-8610-48cc-a602-42b9ffb9732d}">
+		<property name="builtBanksOutputDirectory">
+			<value>../RippitGame/Assets/StreamingAssets/FMODAudio</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{7c2b8395-fa18-4097-95c7-3aaba7ce56e1}</destination>
 		</relationship>
