@@ -84,7 +84,7 @@
 			<destination>{98f533ac-e3f1-46f7-8a49-f08bcac127c1}</destination>
 			<destination>{940f9577-7861-4247-ab9d-5ffd7e4e8b61}</destination>
 			<destination>{b267351a-79ea-4a80-b1f3-0aa05fb6e84f}</destination>
-			<destination>{446a5e37-3254-409a-9af1-7704d19caae6}</destination>
+			<destination>{4977d967-623c-42ee-879c-360ce1e1b571}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{31352c8f-0145-4679-807a-a5f39f6f2af6}">
@@ -214,7 +214,7 @@
 	</object>
 	<object class="NamedMarker" id="{b267351a-79ea-4a80-b1f3-0aa05fb6e84f}">
 		<property name="position">
-			<value>105.98</value>
+			<value>131.75</value>
 		</property>
 		<property name="name">
 			<value>RaceEnd</value>
@@ -226,12 +226,12 @@
 			<destination>{e2bc3137-c7c1-4095-af5d-897a88e22f0a}</destination>
 		</relationship>
 	</object>
-	<object class="LoopRegion" id="{446a5e37-3254-409a-9af1-7704d19caae6}">
+	<object class="LoopRegion" id="{4977d967-623c-42ee-879c-360ce1e1b571}">
 		<property name="position">
-			<value>120.855</value>
+			<value>145.78999999999999</value>
 		</property>
 		<property name="length">
-			<value>10.894999999999982</value>
+			<value>6.2340000000000089</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{48b36a4f-c9e9-438e-b3c6-a34731d30464}</destination>
