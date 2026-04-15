@@ -18,4 +18,6 @@ Download FMOD Studio : https://www.fmod.com/
 - Re-copy files when you want to update changes from FMOD to Unity.
 - You can keep Unity open when doing so. The FMOD for Unity Package will recognise the changes and prompt refresh
 
+_____
+
 - ⚠️ You can setup the FMOD App to build to a specific path. Please don't commit these changes on a Shared/Main Branch as the setting will apply to other users
