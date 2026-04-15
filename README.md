@@ -1,7 +1,7 @@
 FMOD AUdio Project for [Project Rippit]( https://github.com/Rippit-productions/RippitGame/)
 
 - Using Version **FMOD Studio 2.02.04**
-  - ⚠️ Make sure to use the same FMOD version or below. Otherwise your Builds may not be supported.
+  - ⚠️ Make sure to use the same FMOD version or below. Otherwise your Audio Build files may not be supported when imported into Unity.
 
 Download FMOD Studio : https://www.fmod.com/
 
