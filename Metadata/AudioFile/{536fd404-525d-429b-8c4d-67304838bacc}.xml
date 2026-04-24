@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{536fd404-525d-429b-8c4d-67304838bacc}">
+		<property name="assetPath">
+			<value>Music/Pipotaku - FRENZY.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>191.13795918367347</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ad9f25f2-2ccd-4e93-b110-49f582ed9608}</destination>
+		</relationship>
+	</object>
+</objects>
