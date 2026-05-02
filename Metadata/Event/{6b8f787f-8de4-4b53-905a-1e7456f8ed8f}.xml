@@ -133,7 +133,7 @@
 	</object>
 	<object class="SingleSound" id="{33079631-5c22-4871-93fb-4a72dbcee1fc}">
 		<property name="start">
-			<value>200</value>
+			<value>160.94874171736618</value>
 		</property>
 		<property name="length">
 			<value>55.000000000000028</value>
@@ -177,10 +177,10 @@
 	</object>
 	<object class="LoopRegion" id="{f166adc1-15b7-454e-b571-1c6d48da6c3e}">
 		<property name="position">
-			<value>16.799908524584929</value>
+			<value>16.889800000000001</value>
 		</property>
 		<property name="length">
-			<value>101.42271074380169</value>
+			<value>101.33281926838666</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{1a203b35-7221-4fca-9f2f-cd2a731795a3}</destination>
@@ -191,7 +191,7 @@
 	</object>
 	<object class="LoopRegion" id="{6fd97688-3bca-405a-bc5c-e4539d1be715}">
 		<property name="position">
-			<value>237.36000000000001</value>
+			<value>198.30874171736619</value>
 		</property>
 		<property name="length">
 			<value>5.3354999999999961</value>
@@ -205,7 +205,7 @@
 	</object>
 	<object class="NamedMarker" id="{31e5c715-94f5-450c-9bf8-6812d70baa83}">
 		<property name="position">
-			<value>232</value>
+			<value>192.94874171736618</value>
 		</property>
 		<property name="name">
 			<value>RaceEnd</value>
