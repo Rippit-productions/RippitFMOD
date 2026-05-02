@@ -105,7 +105,7 @@
 	</object>
 	<object class="TransitionDestinationSound" id="{d7eba5f1-181f-4949-be11-6f4852183dd4}">
 		<property name="start">
-			<value>2</value>
+			<value>1.5</value>
 		</property>
 		<property name="length">
 			<value>0</value>
@@ -139,9 +139,6 @@
 	<object class="TransitionDestinationSound" id="{16aac647-d034-49e0-b177-e50bba117aa8}">
 		<property name="start">
 			<value>0.5</value>
-		</property>
-		<property name="length">
-			<value>1.5</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{643adccc-6f05-4142-ae37-44e18c8fca88}</destination>
@@ -279,7 +276,7 @@
 	<object class="MixerBusPanner" id="{04dc75ca-fc8c-44a3-9eb0-16a3448f34a8}" />
 	<object class="TransitionTimeline" id="{763f7002-1498-41c3-9f12-6570322b1997}">
 		<property name="length">
-			<value>2</value>
+			<value>1.5</value>
 		</property>
 		<relationship name="modules">
 			<destination>{e79fbdce-be4e-41fc-bc7a-a9185b5c7276}</destination>
@@ -351,7 +348,7 @@
 	</object>
 	<object class="AutomationPoint" id="{9cc5e97c-180f-4498-b811-89ca30f5a274}">
 		<property name="position">
-			<value>2</value>
+			<value>1.5</value>
 		</property>
 		<property name="value">
 			<value>1</value>
