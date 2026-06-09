@@ -71,6 +71,7 @@
 			<destination>{e5efadc7-0f45-4fba-ad4e-784377ce058c}</destination>
 			<destination>{29f93043-3efc-42ed-8d53-91ec6dd555bf}</destination>
 			<destination>{6869d5de-0744-486f-a9f3-84098f8769a8}</destination>
+			<destination>{318f7dcc-9653-42c7-8bc7-250e170685b5}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{d6b709ad-6d7d-4db6-8d84-842a59687687}">
@@ -128,6 +129,9 @@
 		<relationship name="markerTrack">
 			<destination>{cf735d22-2636-4131-9e6d-4979bddff04d}</destination>
 		</relationship>
+		<relationship name="triggerConditions">
+			<destination>{f807d2fd-1cac-4d8f-871c-070e3df7caeb}</destination>
+		</relationship>
 	</object>
 	<object class="LoopRegion" id="{29f93043-3efc-42ed-8d53-91ec6dd555bf}">
 		<property name="position">
@@ -157,6 +161,20 @@
 			<destination>{cf735d22-2636-4131-9e6d-4979bddff04d}</destination>
 		</relationship>
 	</object>
+	<object class="LoopRegion" id="{318f7dcc-9653-42c7-8bc7-250e170685b5}">
+		<property name="position">
+			<value>6.4249999999999998</value>
+		</property>
+		<property name="length">
+			<value>12.794999999999998</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{14b9a20a-15b6-4f06-a85f-dc47cfa1cf31}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{cf735d22-2636-4131-9e6d-4979bddff04d}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{7efae7bc-297d-4ded-88ee-4bb1aad24719}">
 		<relationship name="effects">
 			<destination>{b4543ac3-4f75-4f07-bb24-1a27ea86370a}</destination>
@@ -170,6 +188,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{edd1e7f4-0094-4f05-af98-8f47326ae082}" />
+	<object class="ParameterCondition" id="{f807d2fd-1cac-4d8f-871c-070e3df7caeb}">
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{1da33dab-f154-486f-a173-436153fb46ef}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{b4543ac3-4f75-4f07-bb24-1a27ea86370a}" />
 	<object class="MixerBusFader" id="{c1bf95e0-bd23-4b62-8983-d8c47b9b51e4}" />
 </objects>
