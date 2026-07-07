@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2f90df47-a31b-415e-b0df-19e9ea2d9e63}">
+		<property name="assetPath">
+			<value>SFX/GUI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Select 2 (Square).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.17708333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ad9f25f2-2ccd-4e93-b110-49f582ed9608}</destination>
+		</relationship>
+	</object>
+</objects>
