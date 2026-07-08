@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ea963d63-7ee7-4622-aa8c-55203cd55999}">
 		<property name="assetPath">
-			<value>SFX/GUI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Popup Close 1 (Sine).wav</value>
+			<value>SFX/UI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Popup Close 1 (Sine).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

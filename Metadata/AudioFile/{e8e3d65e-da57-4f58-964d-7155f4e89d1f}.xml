@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e8e3d65e-da57-4f58-964d-7155f4e89d1f}">
 		<property name="assetPath">
-			<value>SFX/GUI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Error 2 (Saw).wav</value>
+			<value>SFX/UI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Error 2 (Saw).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

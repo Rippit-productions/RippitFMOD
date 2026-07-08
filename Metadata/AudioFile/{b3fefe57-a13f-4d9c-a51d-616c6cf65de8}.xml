@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b3fefe57-a13f-4d9c-a51d-616c6cf65de8}">
 		<property name="assetPath">
-			<value>SFX/GUI/Cyrex - Universal UI/Retro10.wav</value>
+			<value>SFX/UI/Cyrex - Universal UI/Retro10.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

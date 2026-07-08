@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f427f7d8-6d1b-4f25-9419-3b132c85ded5}">
 		<property name="assetPath">
-			<value>SFX/GUI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Cancel 1 (Sine).wav</value>
+			<value>SFX/UI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Cancel 1 (Sine).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{41573b29-46ee-46f8-b9a7-d1ff3d342bcd}">
 		<property name="assetPath">
-			<value>SFX/GUI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Cursor 2 (Square).wav</value>
+			<value>SFX/UI/JDSherbert - Pixel UI/JDSherbert - Pixel UI SFX Pack - Cursor 2 (Square).wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

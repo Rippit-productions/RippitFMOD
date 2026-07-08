@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b5d2d12b-6dab-41a8-a24f-0eefc6525e5f}">
 		<property name="assetPath">
-			<value>SFX/GUI/JDSherbert - UI Pack/JDSherbert - Ultimate UI SFX Pack - Cancel - 2.wav</value>
+			<value>SFX/UI/JDSherbert - UI Pack/JDSherbert - Ultimate UI SFX Pack - Cancel - 2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
